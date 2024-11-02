@@ -7,7 +7,7 @@ based on https://meyerweb.com/eric/tools/css/reset/
 install and include into your project like an ordinary .css file:
 
 ```javascript
-npm i @cps/colors.css@latest
+npm i yet-another-reset.css@latest
 ```
 
 ```javascript
